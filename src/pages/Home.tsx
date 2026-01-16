@@ -49,13 +49,13 @@ export default function Home() {
 
   const handleWhatsAppClick = () => {
     window.open(
-      "https://wa.me/9771234567890?text=Hello, I would like to book a room",
+      "https://wa.me/9779817078495?text=Hello, I would like to book a room",
       "_blank"
     );
   };
 
   const handleCallClick = () => {
-    window.location.href = "tel:+9771234567890";
+    window.location.href = "tel:+9779704469305";
   };
 
   return (
