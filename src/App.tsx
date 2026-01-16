@@ -1,11 +1,11 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import Home from './pages/Home';
-import Rooms from './pages/Rooms';
-import Gallery from './pages/Gallery';
-import HouseRules from './pages/HouseRules';
-import Contact from './pages/Contact';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+import Home from "./pages/Home";
+import Rooms from "./pages/Rooms";
+import Gallery from "./pages/Gallery";
+import HouseRules from "./pages/HouseRules";
+import Contact from "./pages/Contact";
 
 function App() {
   return (
